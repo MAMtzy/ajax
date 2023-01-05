@@ -31,10 +31,13 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "5.15.3",
-        "bootstrap": "4.6.2",
+        snyk-upgrade-a723e18ec7073b02f53cedbcf04b998e
+
+        "@fortawesome/fontawesome-free": "5.15.4",
+        "bootstrap": "4.6.0",
+         main
         "chart.js": "2.9.4",
-        "datatables.net-bs4": "1.10.24",
+        "datatables.net-bs4": "1.13.1",
         "jquery": "3.6.0",
         "jquery.easing": "^1.4.1"
     },
