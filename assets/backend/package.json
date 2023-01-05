@@ -37,8 +37,10 @@
         "bootstrap": "4.6.0",
          main
         "chart.js": "2.9.4",
+
         "datatables.net-bs4": "1.13.1",
         "jquery": "3.6.0",
+          main
         "jquery.easing": "^1.4.1"
     },
     "devDependencies": {
